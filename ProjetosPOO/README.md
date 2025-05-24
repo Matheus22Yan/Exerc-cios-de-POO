@@ -1,1 +1,1 @@
-Exercícios e algumas listagens dos capítulos: 10, 11, 12 e 13 do Livro Introdução à Programação com Python do Nilo Ney Coutinho Menezes 4ª edição https://python.nilo.pro.br/.
+Pastas dos exercícios e alguns arquivos que foram criados após a criação do Banco de Dados da Pasta 11.
