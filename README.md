@@ -27,7 +27,7 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 ### 🏃 Executar os Exercícios
 
 1. **Instalar Python:**  
-👉 Baixe em:  [https://www.python.org/downloads/](https://www.python.org/downloads/)  
+Certifique-se de que o [Python 3](https://www.python.org/downloads/) (versão 3.10 ou superior recomendada) está instalado em seu computador. 
 ⚠️ **Durante a instalação, marque a opção:** `Add Python to PATH`
 
 2. **Instalar o VS Code (se ainda não tiver):**  
