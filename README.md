@@ -28,7 +28,8 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 
 1.  **Instalar Python:** Certifique-se de que o [Python 3](https://www.python.org/downloads/) (versão 3.10 ou superior recomendada) está instalado em seu computador.
 
-   ⚠️ Durante a instalação, marque a opção "Add Python to PATH".
+   ⚠️ **Durante a instalação, marque a opção:**  
+   `Add Python to PATH`
    
 3. **Instalar o VS Code (se ainda não tiver):**
 
