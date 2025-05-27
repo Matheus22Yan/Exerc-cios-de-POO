@@ -10,7 +10,7 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 - **Capítulo 13:** Interface gráfica
  
 ## 🚀 Como Executar o Projeto (Forma Simples)
-### 📥 1. Baixar o Projeto
+### 📥 Baixar o Projeto
 
 1. Acesse este repositório no GitHub.
 2. Clique no botão **Code** (cor verde).
