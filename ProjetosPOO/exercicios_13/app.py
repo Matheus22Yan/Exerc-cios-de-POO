@@ -4,6 +4,7 @@ from tkinter.filedialog import askopenfilename, asksaveasfilename
 from tkinter.messagebox import askquestion, showinfo
 from gerente import GerenteDeSites
 from janela import Janela
+import os
 
 
 class App(tk.Tk):
@@ -16,7 +17,8 @@ class App(tk.Tk):
         self.geometry(f"{self.MIN_X}x{self.MIN_Y}")
         self.cria_controles()
         self.gerente = GerenteDeSites()
-        self.gerente.carrega("dados.json")
+        caminho_json = os.path.join(os.path.dirname(__file__), "dados.json")
+        self.gerente.carrega(caminho_json)
         self.mostra_dados()
         self.minsize(self.MIN_X, self.MIN_Y)
 
