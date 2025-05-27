@@ -26,11 +26,12 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 
 ### 🏃 Executar os Exercícios
 
-1. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
-2. Instale as extensões:
+1. Certifique-se de que o Python está instalado no seu computador (versão 3.10 ou superior recomendada).
+2. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
+3. Instale as extensões:
    - **Python** (da Microsoft)
    - **SQLite** (caso vá executar os exemplos com banco de dados)
-3. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.  
+4. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.  
 
 ---
 ## 🔗 Referência
