@@ -1,0 +1,15 @@
+
+[
+    {
+        "url": "https://python.nilo.pro.br",
+        "categoria": "Python",
+        "data": "01-10-2010",
+        "notas": "Livro de Python"
+    },
+    {
+        "url": "https://www.novatec.com.br",
+        "categoria": "Livros",
+        "data": "01-01-2000",
+        "notas": "Editora"
+    }
+]
