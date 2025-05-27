@@ -5,12 +5,34 @@ Exercícios e exemplos práticos do capítulo sobre Interface Gráfica com Tkint
 
 O programa principal controla um cadastro de sites interessantes, exibindo-os em uma tabela com opções para adicionar, editar e remover entradas.
 
-📂 Estrutura dos arquivos
+## 📂 Estrutura dos Arquivos:
 
-*app.py — Arquivo principal da interface gráfica.
+* `app.py` — Arquivo principal da interface gráfica.
+* `gerente.py` — Gerencia os dados dos sites.
+* `janela.py` — Janela para edição e adição de sites.
+* `dados.json` — Dados iniciais dos sites em JSON.
 
-*gerente.py — Gerencia os dados dos sites.
+---
 
-*janela.py — Janela para edição e adição de sites.
+## 🚀 Como Executar o Aplicativo (`app.py`)
 
-*dados.json — Dados iniciais dos sites em JSON.
+Para rodar o aplicativo principal, siga estes passos:
+
+1.  **Abra o seu Prompt de Comando (CMD)** (no Windows) ou **Terminal** (no Linux/macOS).
+
+2.  **Navegue até a pasta `exercicios_13`** (ou `Capítulo 13`) onde o arquivo `app.py` e os outros arquivos (`gerente.py`, `janela.py`, `dados.json`) estão localizados.
+    * **Exemplo de Comando:**
+        ```bash
+        # No Windows:
+        cd C:\Users\SeuNomeDeUsuario\Documents\Exerc-cios-de-POO-main\ProjetosPOO\exercicios_13
+        ```
+        *(Ajuste o caminho `C:\Users\SeuNomeDeUsuario\...` conforme a localização exata no seu computador. Use a tecla `Tab` para autocompletar e `dir` para listar os conteúdos das pastas.)*
+
+3.  **Execute o arquivo `app.py`:**
+    * Uma vez dentro da pasta `exercicios_13` no seu Terminal/CMD, digite o seguinte comando e pressione Enter:
+        ```bash
+        python app.py
+        ```
+    * A interface gráfica do aplicativo deverá ser iniciada.
+
+---
