@@ -9,5 +9,7 @@ Para **Executar o Arquivo em específico (`app.py`), siga estes passos:**
 * **Exemplo:** Se você estiver em `C:\Users\SeuNomeDeUsuario\Documents`, e seu projeto estiver em `C:\Users\SeuNomeDeUsuario\Documents\Exerc-cios-de-POO-main\ProjetosPOO\exercicios_13`, você usaria:
 * cd Exerc-cios-de-POO-main\ProjetosPOO\exercicios_13
 4. Uma vez que você esteja dentro da pasta `exercicios_13` no seu Terminal/CMD, digite o seguinte comando e pressione Enter:
-- python app.py
+  ```
+   python app.py
+ ```
 * A interface gráfica do aplicativo deverá ser iniciada.
