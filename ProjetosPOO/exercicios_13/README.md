@@ -7,10 +7,10 @@ O programa principal controla um cadastro de sites interessantes, exibindo-os em
 
 📂 Estrutura dos arquivos
 
-app.py — Arquivo principal da interface gráfica.
+*app.py — Arquivo principal da interface gráfica.
 
-gerente.py — Gerencia os dados dos sites.
+*gerente.py — Gerencia os dados dos sites.
 
-janela.py — Janela para edição e adição de sites.
+*janela.py — Janela para edição e adição de sites.
 
-dados.json — Dados iniciais dos sites em JSON.
+*dados.json — Dados iniciais dos sites em JSON.
