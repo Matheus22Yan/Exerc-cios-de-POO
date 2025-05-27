@@ -9,12 +9,10 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 - **Capítulo 12:** Padrões
 - **Capítulo 13:** Interface gráfica
  
-🚀 Como Executar o Projeto (Forma Simples)
-📥 1. Baixar o Projeto
-Acesse este repositório no GitHub.
+## 🚀 Como Executar o Projeto (Forma Simples)
+### 📥 1. Baixar o Projeto
 
-Clique no botão Code (cor verde).
-
-Clique em Download ZIP.
-
-Extraia o arquivo .zip no seu computador.
+1. Acesse este repositório no GitHub.
+2. Clique no botão **Code** (cor verde).
+3. Clique em **Download** ZIP.
+4. Extraia o arquivo .zip no seu computador.
