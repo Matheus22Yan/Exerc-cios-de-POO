@@ -16,3 +16,9 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 2. Clique no botão **Code** (cor verde).
 3. Clique em **Download** ZIP.
 4. Extraia o arquivo .zip no seu computador.
+
+### 🏃 2. Executar os Exercícios
+
+1. Abra o VScode, clique em Arquivo - Abrir Pasta e selecione a pasta que foi extraída.
+2. Baixe a extensão do SQLite e a extensão Python.
+3. Você está pronto para executar os códigos.
