@@ -8,3 +8,4 @@ Para **Executar o Arquivo em específico (`app.py`):**
 2. Use o comando `cd` (change directory) para ir até a pasta `exercicios_13`
 3. Uma vez que você esteja dentro da pasta `exercicios_13` no seu Terminal/CMD, digite o seguinte comando e pressione Enter:
 - python app.py
+* A interface gráfica do aplicativo deverá ser iniciada.
