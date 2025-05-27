@@ -1,5 +1,5 @@
 📁 Pasta: Capítulo 10
 
 📌 Descrição:
-Exercícios do capítulo 10 sobre Classes e Objetos.
+Exercícios do capítulo sobre Classes e Objetos.
 
