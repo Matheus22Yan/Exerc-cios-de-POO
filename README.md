@@ -27,11 +27,12 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 ### 🏃 Executar os Exercícios
 
 1. **Instalar Python:**  
-Certifique-se de que o [Python 3](https://www.python.org/downloads/) (versão 3.10 ou superior recomendada) está instalado em seu computador. 
+Certifique-se de que o [Python 3](https://www.python.org/downloads/) (versão 3.10 ou superior recomendada) está instalado em seu computador.  
 ⚠️ **Durante a instalação, marque a opção:** `Add Python to PATH`
 
 2. **Instalar o VS Code (se ainda não tiver):**  
-👉 Baixe em:  [https://code.visualstudio.com/](https://code.visualstudio.com/)
+👉 Baixe em: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
 4. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
 5. Instale as extensões:
    - **Python** (da Microsoft)
