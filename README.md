@@ -2,4 +2,4 @@
  
  Exercícios e algumas listagens dos capítulos: 10, 11, 12 e 13.
  
- Site do Livro: https://python.nilo.pro.br/
+
