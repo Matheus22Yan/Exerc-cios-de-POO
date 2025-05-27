@@ -38,7 +38,7 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 
 
 4. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
-5. Instale as extensões:
+5. Instale as extensões dentro do VS code:
    - **Python** (da Microsoft)
    - **SQLite** (caso vá executar os exemplos com banco de dados)
 6. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.  
