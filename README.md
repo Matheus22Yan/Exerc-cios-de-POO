@@ -33,3 +33,7 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 3. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.  
 
 ---
+## 🔗 Referência
+
+- Livro: *Introdução à Programação com Python* – 4ª ed.  
+  [Site oficial do autor](https://python.nilo.pro.br/)
