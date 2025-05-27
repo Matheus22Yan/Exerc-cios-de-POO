@@ -26,10 +26,8 @@ Este repositório contém a resolução de exercícios e algumas listagens dos c
 
 ### 🏃 Executar os Exercícios
 
-1. Certifique-se de que o Python está instalado no seu computador (versão 3.10 ou superior recomendada).
-   
-   👉 Baixe em: https://www.python.org/downloads/
-   ⚠️ Durante a instalação, marque a opção “Add Python to PATH”.
+1.  **Instalar Python:** Certifique-se de que o [Python 3](https://www.python.org/downloads/) (versão 3.10 ou superior recomendada) está instalado em seu computador.
+    * **⚠️ Importante durante a instalação:** Marque a opção "Add Python to PATH" para facilitar a execução de comandos Python no terminal.
 3. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
 4. Instale as extensões:
    - **Python** (da Microsoft)
