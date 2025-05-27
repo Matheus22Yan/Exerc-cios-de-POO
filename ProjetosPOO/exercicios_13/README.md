@@ -5,12 +5,11 @@ Exercícios e exemplos práticos do capítulo sobre Interface Gráfica com Tkint
 
 O programa principal controla um cadastro de sites interessantes, exibindo-os em uma tabela com funcionalidades para adicionar, editar e remover entrada
 
-Estrutura dos arquivos
-app.py — arquivo principal que inicia a interface gráfica.
+📂 Estrutura dos arquivos
+app.py — Arquivo principal que inicializa a interface gráfica e gerencia a interação com o usuário.
 
-gerente.py — gerencia os dados dos sites.
+gerente.py — Responsável pelo gerenciamento dos dados dos sites, incluindo carregar e salvar as informações.
 
-janela.py — implementa a janela para edição/adição de sites.
+janela.py — Define a janela auxiliar para edição e adição de sites ao cadastro.
 
-dados.json — arquivo que contém os dados iniciais dos sites em formato JSON.
-
+dados.json — Arquivo de dados que contém os registros iniciais dos sites no formato JSON.
