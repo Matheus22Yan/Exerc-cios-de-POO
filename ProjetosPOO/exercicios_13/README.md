@@ -11,6 +11,9 @@ O programa principal controla um cadastro de sites interessantes, exibindo-os em
 * `gerente.py` — Gerencia os dados dos sites.
 * `janela.py` — Janela para edição e adição de sites.
 * `dados.json` — Dados iniciais dos sites em JSON.
+* `data.py` — **Define um widget personalizado de seleção de data (dia, mês, ano) para uso na interface gráfica.**
+* `modelo_site.py` — Define a classe `Site`, que representa um site individual com atributos como URL, categoria, data e notas, incluindo a geração de IDs únicos.
+
 
 ---
 
