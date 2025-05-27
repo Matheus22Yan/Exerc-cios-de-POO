@@ -33,11 +33,11 @@ Certifique-se de que o [Python 3](https://www.python.org/downloads/) (versão 3.
 2. **Instalar o VS Code (se ainda não tiver):**  
 👉 Baixe em: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-4. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
-5. Instale as extensões:
+3. Abra o **VS Code**, clique em **Arquivo → Abrir Pasta** e selecione a pasta extraída.
+4. Instale as extensões:
    - **Python** (da Microsoft)
    - **SQLite** (caso vá executar os exemplos com banco de dados)
-6. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.  
+5. Pronto! Agora é só abrir os arquivos `.py` e rodar os códigos.  
 
 ---
 ## 🔗 Referência
