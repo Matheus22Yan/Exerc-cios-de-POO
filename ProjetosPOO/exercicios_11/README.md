@@ -10,5 +10,11 @@ Os arquivos deste capítulo envolvem operações com banco de dados (SQLite) e *
 Por exemplo:
 
 - Primeiro, execute `exercicio_11.1.py` (criação do banco e das tabelas).
-- Só depois execute `exercicio_11.2.py`, `exercicio_11.3` e sucessivamente até o `exercicio_11.6`.
-- O mesmo com  `listagem_agenda1` e  `listagem_estados1`.
+- Só depois execute `exercicio_11.2.py`, `exercicio_11.3.py` e assim por diante até `exercicio_11.6.py`.
+
+O mesmo se aplica às listagens:
+
+- Execute `listagem_agenda1.py` antes de `listagem_agenda2.py`, `listagem_agenda3.py` etc.
+- O mesmo vale para `listagem_estados1.py` e os demais arquivos relacionados.
+
+👉 **Siga sempre a numeração dos arquivos para garantir que tudo funcione corretamente.**
