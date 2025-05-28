@@ -7,7 +7,7 @@ cursor = conexao.cursor()
 cursor.execute("Drop table if exists estados")
 
 cursor.execute(
-    """create table estados(
+    """create table if not exists estados(
     id integer primary key autoincrement,
     nome text,
     populacao integer
