@@ -7,7 +7,7 @@ cursor = conexao.cursor()
 cursor.execute("Drop table if exists agenda")
 
 cursor.execute(
-    """create table agenda(
+    """create table if not exists agenda(
     id integer primary key autoincrement,
     nome text,
     telefone text
