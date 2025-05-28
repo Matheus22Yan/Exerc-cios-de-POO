@@ -25,5 +25,5 @@ seq = re.compile(r"(?P<seq>\w{3})(.*?)(?P=seq)")
 print(seq.match("AAAabcdefAAA").groups())
 print(seq.match("AAAabcdefAAA").groupdict())
 
-seq = re.compile(r"\w{3})(.*?)(\1)")
+seq = re.compile(r"(\w{3})(.*?)(\1)")
 print(seq.match("AAAabcdefAAA").groups())
